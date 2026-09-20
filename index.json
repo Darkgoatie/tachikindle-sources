@@ -3,52 +3,12 @@
   "repo_format_version": 1,
   "extensions": [
     {
-      "id": "en.batcave",
-      "name": "BatCave",
-      "lang": "en",
-      "version_code": 1,
-      "content_warning": "SAFE",
-      "path": "sources/en/batcave.tkext.json"
-    },
-    {
-      "id": "en.madara_generic",
-      "name": "Generic Madara Site",
-      "lang": "en",
-      "version_code": 1,
-      "content_warning": "SAFE",
-      "path": "sources/en/madara_generic.tkext.json"
-    },
-    {
-      "id": "en.readallcomics",
-      "name": "ReadAllComics",
-      "lang": "en",
-      "version_code": 1,
-      "content_warning": "SAFE",
-      "path": "sources/en/readallcomics.tkext.json"
-    },
-    {
-      "id": "en.readcomiconline",
-      "name": "ReadComicOnline",
-      "lang": "en",
-      "version_code": 1,
-      "content_warning": "SAFE",
-      "path": "sources/en/readcomiconline.tkext.json"
-    },
-    {
       "id": "en.weebcentral",
       "name": "Weeb Central",
       "lang": "en",
       "version_code": 1,
       "content_warning": "MIXED",
       "path": "sources/en/weebcentral.tkext.json"
-    },
-    {
-      "id": "en.xoxocomics",
-      "name": "XOXO Comics",
-      "lang": "en",
-      "version_code": 1,
-      "content_warning": "SAFE",
-      "path": "sources/en/xoxocomics.tkext.json"
     }
   ]
 }
