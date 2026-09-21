@@ -3,6 +3,14 @@
   "repo_format_version": 1,
   "extensions": [
     {
+      "id": "en.batcave",
+      "name": "BatCave",
+      "lang": "en",
+      "version_code": 1,
+      "content_warning": "SAFE",
+      "path": "sources/en/batcave.tkext.json"
+    },
+    {
       "id": "en.weebcentral",
       "name": "Weeb Central",
       "lang": "en",
