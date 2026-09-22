@@ -11,6 +11,14 @@
       "path": "sources/en/batcave.tkext.json"
     },
     {
+      "id": "en.mangadex",
+      "name": "MangaDex",
+      "lang": "en",
+      "version_code": 1,
+      "content_warning": "MIXED",
+      "path": "sources/en/mangadex.tkext.json"
+    },
+    {
       "id": "en.weebcentral",
       "name": "Weeb Central",
       "lang": "en",
